@@ -16,9 +16,8 @@ After some time, I am able to deploy the machine and to connect via Putty. I put
 
 ## HDFS & Hive on Spark
 
-I did X because of Y...
-<br>I had issues with Z...
-<br>I liked doing T...
+At this point, I was not familiar with Scala, so that was my first step towards this assignment. I watched some introduction videos on Scala and did a Hello World project, which executed fine. I found a way how to upload files to HDFS, but since Ambari was not reachable, I couldn’t do it. I decided to check out Hive and found this link https://hortonworks.com/tutorial/how-to-process-data-with-apache-hive/. The tutorial explains very well the entire process and all the steps seem to be reasonable, I can easily see why we’re doing that. 
+
 
 ## HBase
 
